@@ -4,8 +4,16 @@ EDA.ipyhon - simple eda, wavelet
 
 
 주차별 진행 상황입니다.
-+ [1주차] 
+[1주차] 
++ Nasa bearing dataset 데이터 EDA (진행하면서 추가 정리 예정)
++ CRWU bearing dataset 데이터 EDA (진행하면서 추가 정리 예정)
++ disrete wavelet transform 종류 정리
++ dwt 중에서 시계열 및 진동에 적합한 dwt(db,bior, sym) 선택
++ 위의 dwt로 Nasa,CWRU 데이터셋 변환 
 
+[2주차]
++ CWT 정리
++ CWT로 Nasa,CWRU 데이터셋
 
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
