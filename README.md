@@ -3,6 +3,7 @@ EDA.ipyhon - simple eda, wavelet
 
 
 
+
 주차별 진행 상황입니다.
 [1주차] 
 + Nasa bearing dataset 데이터 EDA (진행하면서 추가 정리 예정)
