@@ -13,6 +13,9 @@ EDA.ipyhon - simple eda, wavelet
 + 위의 dwt로 Nasa,CWRU 데이터셋 변환 
 
 [2주차]
+시험기간으로 한주 PASS
+
+[3주차]
 + CWT 정리
 + CWT로 Nasa,CWRU 데이터셋
 
