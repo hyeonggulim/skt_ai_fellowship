@@ -16,6 +16,7 @@ EDA.ipyhon - simple eda, wavelet
 시험기간으로 한주 PASS
 
 [3주차]
++ CWRU 데이터 
 + CWT 정리
 + CWT로 Nasa,CWRU 데이터셋
 
