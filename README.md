@@ -22,7 +22,7 @@ EDA.ipyhon - simple eda, wavelet
 [4주차]
 + CWT 정리
 + CWT로 Nasa,CWRU 데이터셋
-
++ USAD 논문 follwup
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
