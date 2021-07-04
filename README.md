@@ -28,4 +28,6 @@ skt_ai_fellowship 블로그 공유 후기 입니다.
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
 https://titanumm.tistory.com/144?category=958328
 
+[5주차]
+- 데이터셋 
 
