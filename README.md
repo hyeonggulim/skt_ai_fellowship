@@ -30,4 +30,4 @@ https://titanumm.tistory.com/144?category=958328
 
 [5주차]
 - 데이터셋 
-
+- AE 이상탐지 정리?
