@@ -2,7 +2,7 @@
 EDA.ipyhon - simple eda, wavelet
 
 
-주차별 진행 상황입니다.
+주차별 진행 상황입니다. (개인)
 [1주차] 
 + Nasa bearing dataset 데이터 EDA (진행하면서 추가 정리 예정)
 + CRWU bearing dataset 데이터 EDA (진행하면서 추가 정리 예정)
@@ -24,10 +24,13 @@ https://titanumm.tistory.com/148?category=994343
 + CWT로 Nasa,CWRU 데이터셋
 + USAD 논문 follwup
 
-[5주차]
+[5주차 & 6주차]
 - phm 데이터셋 정리 
 - 8월 중간 공유 내용
 - 인터뷰 (skt ai fellowship 관련)
+
+[7주차]
+- 
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
