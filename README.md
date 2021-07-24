@@ -30,7 +30,8 @@ https://titanumm.tistory.com/148?category=994343
 - 인터뷰 (skt ai fellowship 관련)
 
 [7주차]
-- 
+- SKT 그랜드뷰 탑재 (시연) 프로그램 review
+- phm 데이터 셋 EDA & 활용 방안 
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
