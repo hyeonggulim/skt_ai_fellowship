@@ -27,7 +27,7 @@ https://titanumm.tistory.com/148?category=994343
 
 [5주차 & 6주차]
 - phm 데이터셋 정리 
-- 8월 중간 공유 내용
+- 8월 중간 발표 계획 공유
 - 인터뷰 (skt ai fellowship 관련)
 
 [7주차]
@@ -37,6 +37,8 @@ https://titanumm.tistory.com/148?category=994343
 [8주차]
 - 백신 휴가 
 - 중간 발표를 위해 쉬어가는 주 
+
+
 
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
