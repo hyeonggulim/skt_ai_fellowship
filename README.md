@@ -34,6 +34,11 @@ https://titanumm.tistory.com/148?category=994343
 - SKT 그랜드뷰 탑재 (시연) 프로그램 review
 - phm 데이터 셋 EDA & 활용 방안 
 
+[8주차]
+- 백신 휴가 
+- 중간 발표를 위해 쉬어가는 주 
+
+
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
 https://titanumm.tistory.com/144?category=958328
