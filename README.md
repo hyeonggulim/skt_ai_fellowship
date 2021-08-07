@@ -33,6 +33,7 @@ https://titanumm.tistory.com/148?category=994343
 [7주차]
 - SKT 그랜드뷰 탑재 (시연) 프로그램 review
 - phm 데이터 셋 EDA & 활용 방안 
+https://github.com/hyeonggulim/phm-data-challenge2012-dataset/blob/main/README.md
 
 [8주차]
 - 백신 휴가 
