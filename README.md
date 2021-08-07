@@ -38,6 +38,8 @@ https://titanumm.tistory.com/148?category=994343
 - 백신 휴가 
 - 중간 발표를 위해 쉬어가는 주 
 
+[9주차]
+- 본격적인 중간 발표 준비 
 
 
 
