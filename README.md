@@ -13,6 +13,7 @@ EDA.ipyhon - simple eda, wavelet
 [2주차]
 시험기간으로 한주 PASS
 
+
 [3주차]
 + CWRU 데이터 정리 & wavelet 전처리
 + CWRU 데이터 사용 부적합 판단 & 새로운 데이터 찾아야함  
