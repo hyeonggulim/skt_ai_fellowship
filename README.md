@@ -42,7 +42,12 @@ https://github.com/hyeonggulim/phm-data-challenge2012-dataset/blob/main/README.m
 [9주차]
 - 본격적인 중간 발표 준비 
 
-
+[10주차]
+- 중간 발표 진행
+- 
+[9월 11~14]
+- 전처리 내용 추가 (DT-CWT)
+- 모델 아이디어 개선 및 성능평가 필요
 
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
