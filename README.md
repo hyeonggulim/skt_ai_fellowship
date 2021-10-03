@@ -49,6 +49,10 @@ https://github.com/hyeonggulim/phm-data-challenge2012-dataset/blob/main/README.m
 - 전처리 내용 추가 (DT-CWT)
 - 모델 아이디어 개선 및 성능평가 필요
 
+[9월 4주차]
+- 데이터 증강 방법 조사 
+
+
 skt_ai_fellowship 블로그 공유 후기 입니다. 
 1. skt ai fellowship 3기 4번 과제 선정 후기 및 OT 후기  
 https://titanumm.tistory.com/144?category=958328
