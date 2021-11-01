@@ -64,3 +64,5 @@ https://devocean.sk.com/blog/techBoardDetail.do?ID=163213&searchData=AI+Fellowsh
 
 3. 5&6 주차 phm 데이터셋 & 8월 중간 발표 준비
 https://titanumm.tistory.com/149?category=994343
+
+활동 블로그 꾸준히 작성 중
