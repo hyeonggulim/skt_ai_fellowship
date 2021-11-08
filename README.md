@@ -19,6 +19,7 @@ EDA.ipyhon - simple eda, wavelet
 (공유)
 https://titanumm.tistory.com/148?category=994343
 
+
 [4주차]
 + CWT 정리
 + CWT로 Nasa,CWRU 데이터셋
