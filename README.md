@@ -115,3 +115,32 @@
 
 - 최종 발표 진행
 - 수료식 및 시상식.
+
+
+
+## 4팀_최주임_활동 기록
+[Devocean - 4회]
+1. Smart Factory 서비스를 위한 진동/압력/온도 센서의 Anomaly Detection 개발 - 연구계획(1) (https://devocean.sk.com/search/techBoardDetail.do?ID=163213&query=smart+factory&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163455%2C+163356%2C+163325%2C+163252%2C+163213%2C+163205%2C+163137%5D) / 07.02
+2. Smart Factory 서비스를 위한 진동/압력/온도 센서의 Anomaly Detection 개발 - 연구과정(2) (https://devocean.sk.com/search/techBoardDetail.do?ID=163325&query=smart+factory&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163455%2C+163356%2C+163325%2C+163252%2C+163213%2C+163205%2C+163137%5D) / 08.29
+3. Smart Factory 서비스를 위한 진동/압력/온도 센서의 Anomaly Detection 개발 - 주파수 변환 방법 총정리 (https://devocean.sk.com/search/techBoardDetail.do?ID=163455&query=smart+factory&searchData=AI+Fellowship&page=&subIndex=&idList=%5B163455%2C+163356%2C+163325%2C+163252%2C+163213%2C+163205%2C+163137%5D) /11.05
+4. Smart Factory 서비스를 위한 진동/압력/온도 센서의 Anomaly Detection 개발 - 연구 결과 (https://devocean.sk.com/internal/index.do) /
+[주차별 활동기록 - 13회]
+5. [SKT AI Fellowship] 3기 선정 후기 (https://titanumm.tistory.com/144?category=994343) / 6.6
+6. [SKT AI Fellowship 3기][4주차] 1차 활동 기록 공유 SKT DEVOCEAN 공유(https://titanumm.tistory.com/147?category=994343) / 07.06
+7. [SKT AI Fellowship 3기][3주차] NASA , CWRU BEARING DATASET (https://titanumm.tistory.com/148?category=994343) / 07.07
+8. [SKT AI Fellowship 3기][5 & 6주차] Phm Data phm challenge 적합 타당성 검토 & 8월 중간 발표 계획(https://titanumm.tistory.com/149?category=994343) / 07.18
+9. [SKT AI Fellowship 3기][7주차] PHM Bearing Dataset 데이터 상세 분석(https://titanumm.tistory.com/150?category=994343)/ 08.06
+10. [SKT AI Fellowship 3기][8 & 9 주차] Phm Bearing Data Challenge 수상 솔루션 분석 & 구현된 모델 TEST (https://titanumm.tistory.com/151?category=994343)/ 08.06
+11. [SKT AI FELLOWSHIP 3기][10 & 11주차] 8/18 (수요일) 중간 발표 (https://titanumm.tistory.com/152?category=994343) / 08.21
+12. [SKT AI FELLOWSHIP 3기][9월 1주차] 모델 개선 아이디어 (https://titanumm.tistory.com/154?category=994343) / 09.17
+13. [SKT AI FELLOWSHIP 3기][9월 3주차] 모델링 개선 & 전처리 향후 계획 (https://titanumm.tistory.com/155?category=994343) / 09.17
+14. [SKT AI Fellowship 3기] SK Careers Journal 인터뷰 진행 (https://titanumm.tistory.com/156?category=994343) 10.07
+15. [SKT AI Fellowship 3기][9월 5주차] 데이터 증강 기법 적용 검토 (https://titanumm.tistory.com/157?category=994343) / 10.09
+16. [SKT AI Fellowship 3기][10월 1주차] 모델링 개선 결과 (https://titanumm.tistory.com/158?category=994343) / 10.09
+17. [SKT AI Fellowship 3기] [10월 3주차] 최종 발표 준비 & 그랜드 뷰 탑재 준비 (https://titanumm.tistory.com/159?category=994343) / 11.10
+[논문 리뷰 - 1회]
+18. [KDD 2020] USAD: UnSupervised Anomaly Detection on Multivariate Time Series (https://yjchoi-95.gitbook.io/paper-review/paper-review/kdd-2020-usad-unsupervised-anomaly-detection-on-multivariate-time-series) / 7월 중순
+[github 코드 repository]
+1. SKT-AI-FELLOWSHIP-3-phm-data-challenge2012-dataset (phm 데이터 셋 전처리 관련 코드들) (https://github.com/hyeonggulim/skt_ai_fellowship)
+2. https://github.com/hyeonggulim/skt_ai_fellowship (활동 내용 및 CWRU, NASA 전처리 코드들) (https://github.com/hyeonggulim/skt_ai_fellowship)
+3. https://github.com/yjchoi-95/SKT_AI_fellowship_3rd (모델 구현 코드들) (https://github.com/yjchoi-95/SKT_AI_fellowship_3rd) 
