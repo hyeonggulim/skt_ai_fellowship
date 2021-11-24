@@ -1,5 +1,8 @@
 # skt_ai_fellowship
-EDA.ipyhon - simple eda, wavelet
+- 연세대학교 산업공학과 시스템인텔리전스 연구실
+- 3기 4번 과제 Smart Factory 서비스를 위한 진동/압력/온도 센서의 Anomaly Detection 개발 수행 
+(https://www.sktaifellowship.com/d9788784-5df2-4782-bb12-c2ec7f651e39)
+- 최주임팀 최영제, 주재현, 임형구
 
 
 [6월 진행 사항]
